@@ -3,7 +3,7 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats" />
-</picture>
+
 <p dir="auto"><code><a href="https://www.microsoft.com/" rel="nofollow"><img height="50" src="https://camo.githubusercontent.com/6456555b87de685401a659b00088c69011f40ed2d5942bf5217896888d0d88d5/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f312f6e65742d636f72652d6c6f676f2d453832434534463730312d7365656b6c6f676f2e636f6d2e706e67" data-canonical-src="https://seeklogo.com/images/1/net-core-logo-E82CE4F701-seeklogo.com.png" style="max-width: 100%;"></a></code>
 <code><a href="https://learn.microsoft.com/en-us/dotnet/csharp/" rel="nofollow"><img height="50" src="https://camo.githubusercontent.com/e5f1cbf59a8752f8a31ba28ea3b788daf4c188a84870865acfc16c5567bfd5ce/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f432f632d73686172702d632d6c6f676f2d303246313737313442412d7365656b6c6f676f2e636f6d2e706e67" data-canonical-src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" style="max-width: 100%;"></a></code>
 <code><a href="https://www.microsoft.com/tr-tr/" rel="nofollow"><img height="50" src="https://camo.githubusercontent.com/f3c5e64857a25f3cd9de9b3d58433710161694868134897b8e1cc53bc553b699/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f4d2f6d6963726f736f66742d73716c2d7365727665722d6c6f676f2d393641463439453242332d7365656b6c6f676f2e636f6d2e706e67" data-canonical-src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png" style="max-width: 100%;"></a></code>
@@ -21,3 +21,4 @@
   srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
   media="(prefers-color-scheme: black), (prefers-color-scheme: no-preference)"
 />
+  </picture>
