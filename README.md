@@ -2,7 +2,6 @@
 <img width="638" alt="copy" src="https://user-images.githubusercontent.com/88801652/211781638-b6c0f855-ce7e-4ffa-b79c-3340cdb9ca15.png">
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats" />
 
 <p dir="auto"><code><a href="https://www.microsoft.com/" rel="nofollow"><img height="50" src="https://camo.githubusercontent.com/6456555b87de685401a659b00088c69011f40ed2d5942bf5217896888d0d88d5/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f312f6e65742d636f72652d6c6f676f2d453832434534463730312d7365656b6c6f676f2e636f6d2e706e67" data-canonical-src="https://seeklogo.com/images/1/net-core-logo-E82CE4F701-seeklogo.com.png" style="max-width: 100%;"></a></code>
 <code><a href="https://learn.microsoft.com/en-us/dotnet/csharp/" rel="nofollow"><img height="50" src="https://camo.githubusercontent.com/e5f1cbf59a8752f8a31ba28ea3b788daf4c188a84870865acfc16c5567bfd5ce/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f432f632d73686172702d632d6c6f676f2d303246313737313442412d7365656b6c6f676f2e636f6d2e706e67" data-canonical-src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" style="max-width: 100%;"></a></code>
